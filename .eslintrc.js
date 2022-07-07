@@ -21,5 +21,7 @@ module.exports = {
     'no-sequences': 0,
     'no-loop-func': 0,
     'no-nested-ternary': 0,
+    'no-unused-vars': 0,
+    'object-curly-newline': 0,
   },
 };
